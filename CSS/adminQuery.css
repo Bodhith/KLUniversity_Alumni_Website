@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+html
+{
+  margin: 0;
+  height: 100%;
+  overflow:hidden;
+}
+
+body
+{
+    background: url("../IMAGES/STUDENTS_BACKGROUND_1.jpg") top left;
+    background-attachment:fixed;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+a
+{
+  font-size: 25px;
+  color: #fff;
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+  border-radius: 5px;
+  height: 50px;
+  width: 500px;
+  padding-top: 0.47%;
+  padding-left: 12%;
+}
+
+a:hover
+{
+  color: #fff;
+  background-color: #138496;
+  border-color: #117a8b;
+}
+
+a#addEvent
+{
+  position: absolute;
+  top:25%;
+  left: 35%;
+}
+
+a#addFaculty
+{
+  position: absolute;
+  top:40%;
+  left: 35%;
+}
+
+a#addCourses
+{
+  position: absolute;
+  top:55%;
+  left: 35%;
+}

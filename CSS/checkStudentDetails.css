@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+html
+{
+  margin: 0;
+  height: 100%;
+  overflow:hidden;
+}
+
+body
+{
+    background: url("../IMAGES/STUDENTS_BACKGROUND_1.jpg") top left;
+    background-attachment:fixed;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+form
+{
+    font-size: 20px;
+    background-color: #f3f3f3;
+    border: 3px solid black;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 37%;
+    padding: 3% 3% 3% 3%;
+}
+
+input[type='submit']
+{
+  font-size: 18px;
+  height: 35px;
+  width: 75px;
+  position: relative;
+  left: 35%;
+  padding: 1% 1% 1% 1%;
+}

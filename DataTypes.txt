@@ -1,0 +1,17 @@
+fId int
+sId int
+eId varchar(20)
+role varchar(20)
+gmailId varchar(30)
+sName varchar(30)
+fName varchar(30)
+fPass varchar(100)
+sDate date
+eDate date
+refId varchar(20)
+slot int(5)
+
+entryId int
+cCode varchar(20)
+secNum tinyint
+sNum tinyint

@@ -1,0 +1,87 @@
+html
+{
+  margin: 0;
+  height: 100%;
+  overflow:hidden;
+}
+
+body
+{
+  top:15%;
+  left: 40%;
+  background: url("../IMAGES/INDEX_BACKGROUND_6.jpg") top right no-repeat;
+  background-attachment:fixed;
+  position: absolute;
+}
+
+.container
+{
+  color: #797c92;
+  font-size: 20;
+  position: absolute;
+  left:25;
+  top: 62;
+}
+
+.form_box {
+  background: #00578b;
+  opacity: 0.9;
+  box-shadow: 0px 0px 40px 16px rgba(0,0,0,0.22);
+  width: 300px;
+  height: 400px;
+  position: absolute;
+  padding-left: 75px;
+  padding-top: 75px;
+}
+
+input[type='text']::placeholder
+{
+  text-align: center;
+}
+
+#userName
+{
+  position: absolute;
+  left: 25%;
+  top: 15%;
+  border-color: black;
+  border-radius: 5px;
+}
+
+#studentUserType
+{
+  position: absolute;
+  top: 38.5%;
+  left: 35%;
+}
+
+#facultyUserType
+{
+  position: absolute;
+  top: 50%;
+  left: 35%;
+}
+
+label
+{
+  color: white;
+  position: relative;
+  left: 55px;
+  top: 40px;
+}
+
+.g-signin2
+{
+  position: absolute;
+  top:70%;
+  left: 30%;
+}
+
+#developedByText
+{
+  font-size: 30px;
+  color: white;
+  position: absolute;
+  top:900%;
+  padding-left: 105px;
+}

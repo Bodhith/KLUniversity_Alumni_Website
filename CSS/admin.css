@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+html
+{
+  margin: 0;
+  height: 100%;
+  overflow:hidden;
+}
+
+body
+{
+    background: url("../IMAGES/INDEX_BACKGROUND_6.jpg") top left;
+    background-attachment:fixed;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+form
+{
+  font-size: 20px;
+  border: 3px solid black;
+  border-radius: 10px;
+  box-shadow: 0px 0px 40px 16px rgba(0,0,0,0.22);
+  background: #01709d;
+  position: absolute;
+  top: 30%;
+  left: 37%;
+  padding: 3%;
+}
+
+input[type='submit']
+{
+  position: relative;
+  left: 40%;
+}

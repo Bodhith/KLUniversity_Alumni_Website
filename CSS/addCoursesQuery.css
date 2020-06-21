@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+html
+{
+  margin: 0;
+  height: 100%;
+  overflow:hidden;
+}
+
+body
+{
+    background: url("../IMAGES/STUDENTS_BACKGROUND_1.jpg") top left;
+    background-attachment:fixed;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+p
+{
+  font-size: 40px;
+  position: absolute;
+  top: 37%;
+  left: 37%;
+}

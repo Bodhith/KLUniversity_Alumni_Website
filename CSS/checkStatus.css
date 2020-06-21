@@ -1,0 +1,54 @@
+html
+{
+  margin: 0;
+  height: 100%;
+}
+
+body
+{
+    background: url("../IMAGES/STUDENTS_BACKGROUND_1.jpg") top left;
+    background-attachment:fixed;
+    position: absolute;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#noteText
+{
+  font-size: 30px;
+  width: 700px;
+  background-color: #f3f3f3;
+  border:3px solid;
+  border-radius: 5px;
+  padding-left: 15px;
+  position: relative;
+  left: 30%;
+  margin-top: 1%;
+}
+
+
+#entriesReplace
+{
+  font-size: 20px;
+  background-color: #f3f3f3;
+  width: 100px;
+  position: absolute;
+  padding-left: 10px;
+  top: 190px;
+  left: 1.0%;
+}
+
+.table
+{
+  font-size: 20px;
+  border: 3px solid red;
+  background-color: #f3f3f3;
+  border:3px solid;
+  border-radius: 5px;
+  width: 1500px;
+  position: relative;
+  left: 0.7%;
+  padding-top: 40px;
+  padding-left: 10px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+}

@@ -1,0 +1,11 @@
+
+CLIENT_ID
+
+766500278137-pm5jbjcquk7bnuufj280lcsi8mmpk15t.apps.googleusercontent.com
+
+
+
+CLIENT SECRET
+
+wr_7GVLIhbGkgQRQ1TCXrzCN
+
